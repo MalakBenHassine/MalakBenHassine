@@ -20,7 +20,9 @@ Recent Software Engineering graduate (Tek-Up University), open to full-time oppo
 ## Featured projects
 
 - **[CareerMatch](https://github.com/MalakBenHassine/CareerMatch)** — RAG-based HR matching engine, 90% scoring accuracy, FastAPI + Qdrant + Docker Compose
+- **[Med-Flow-Front](https://github.com/MalakBenHassine/Med-Flow-Front) / [medflow-backend](https://github.com/MalakBenHassine/medflow-backend)** — Multi-tenant clinic management platform (Next.js + Django/PostgreSQL), built with a 4-person team
 - **[Event-App](https://github.com/MalakBenHassine/Event-App)** — Event management platform (Symfony/PHP), built with a 4-person team
+- **[back-hr](https://github.com/MalakBenHassine/back-hr)** — AI-powered HR platform (resume screening, chatbot), .NET/C#, built with a 4-person team
 
 ## Get in touch
 
